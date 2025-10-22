@@ -10,4 +10,4 @@ jobs:
     steps:
       - name: Wake up Supabase
         run: |
-          curl -s -o /dev/null -w "%{http_code}\n" https://<teu_projeto>.supabase.co/rest/v1
+          curl -s -o /dev/null -w "%{http_code}\n" https://shphlpyzasvylrosamid.supabase.co/rest/v1
